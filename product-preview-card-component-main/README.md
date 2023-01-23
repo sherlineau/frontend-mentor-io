@@ -1,3 +1,5 @@
+## Deployed on render at: [link](https://product-preview-card.onrender.com/)
+
 # Frontend Mentor - Product preview card component
 
 ![Design preview for the Product preview card component coding challenge](./design/desktop-preview.jpg)
@@ -12,7 +14,3 @@ Your users should be able to:
 
 - View the optimal layout depending on their device's screen size
 - See hover and focus states for interactive elements
-
-Want some support on the challenge? [Join our Slack community](https://www.frontendmentor.io/slack) and ask questions in the **#help** channel.
-
-## Deployed on render at: [link](https://product-preview-card.onrender.com/)
